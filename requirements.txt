@@ -2,8 +2,7 @@ numpy
 pandas
 streamlit
 sklearn
-pip
-matplotlib.pyplot
+matplotlib
 nltk
 pyngrok
 wordcloud
